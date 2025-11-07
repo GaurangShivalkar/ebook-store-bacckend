@@ -40,7 +40,7 @@ When ABC makes his *first* purchase, an atomic transaction is started to:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/GaurangShivalkar/ebook-store-bacckend.git
+    git clone https://github.com/GaurangShivalkar/ebook-store-backend.git
     cd ebook-store-backend
     ```
 2.  Install dependencies:
